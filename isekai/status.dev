@@ -1,0 +1,24 @@
+Exhaustible:
+{
+  Health,  //Resists loss of focus when defending and loss of stamina when attacking
+  Stamina, //Resists loss of health when defending and loss of focus when attacking
+  Focus,   //Resists loss of stamina and mana when defending and loss of health and spirit when attacking
+  Mana,    //Resists loss of spirit when defending and loss of focus when attacking
+  Spirit   //Resists loss of focus when defending and loss of mana when attacking
+}
+Defensive:
+{
+  Constitution,
+  Dexterity,
+  Acuity,
+  Wisdom,
+  Willpower
+}
+Aggressive:
+{
+  Strength,
+  Agility,
+  Boldness,
+  Judgement,
+  Awe
+}
